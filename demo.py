@@ -1,2 +1,2 @@
-a = "https://exclusively-outline-publicly-strict.trycloudflare.com/api/persons/"
+a = "https://isolated-ac-bk-athens.trycloudflare.com/api/persons/"
 print(a)
